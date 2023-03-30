@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# Tmp Folder
+.vscode
+.history
+.cache
+build
+
+#Lof files
+*.log
